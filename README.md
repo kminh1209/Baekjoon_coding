@@ -1,1 +1,1 @@
-# Baekjoon_solved.ac
+백준 문제들을 풀어나가는 과정
